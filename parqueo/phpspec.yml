@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Park
+        psr4_prefix: Park
+        src_path: app
